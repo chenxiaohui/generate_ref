@@ -1,7 +1,7 @@
 generate_ref
 ============
 
-a plugin auto generate reference in sublime using markdown url dict.
+a plugin auto generate reference in **sublime** using markdown url dict.
 
 ###Install:
 
@@ -21,6 +21,10 @@ add this to your user key map prefrence.
 
     ![alt](after.png "after")
 
+* effect:
 
+###参考文献:
 
+>\[1] 谷歌, <http://www.google.com>
 
+>\[2] 404 not found, <http://www.facebook.com>
